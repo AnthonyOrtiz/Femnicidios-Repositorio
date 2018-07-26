@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+main{
+    
+}
+
+#super_header{
+    background-image: url('../imagenes/milestones_background.jpg');
+    width: 100%;
+    height: 600px;
+}
+
+#super_header header{
+    width: 90%;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+#super_header header nav{
+    background: #fff;
+    padding: 0em 2em 0em 2em;
+    padding: 2em;
+    text-align: center;
+}
+
+#super_header header nav a{
+    text-decoration: none;
+    margin: 0em 2em 0em 2em;
+    font-size: 20px;
+}
+
+#super_header div{
+    width: 100%;
+    text-align: center;
+    
+}
+
+#super_header div h2{
+    color: #fff;
+    padding: 3em 0em 3em 0em;
+}
+
+#container1{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+
+#container1 div{
+    width: 25%;
+    display: inline-block;
+    padding: 0.5em 1em 0.5em 1em;
+    background: #717479;
+    margin: 0em 1em 0em 1em;
+}
+
+#container1 div:hover{
+    background: #E5EAF1;
+    color: #E1DD47;
+}
+
+#container1 div #img{
+    width: 20%;
+    display: inline-block;
+}
+
+#container1 div #cont{
+    width: 80%;
+    display: inline-block;
+}
